@@ -10,4 +10,4 @@ PivotTables & PivotCharts: Visualized monthly and regional performance.
 
 Slicers & Timeline: Enabled dynamic filtering by product category, region, and date.
 
-Conditional Formatting: Highlighted high/low performing products at a glance.
+Conditional Formatting: Highlighted high/low performing months at a glance.
